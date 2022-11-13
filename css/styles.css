@@ -16,18 +16,23 @@ h1{
 h2{
     font-family: 'Montserrat',sans-serif;
     color:#66BFBF ;
+    font-size:2.8rem;
+
 
 }
 .spch2{
     font-family: 'Montserrat',sans-serif;
-    font-size:2.5rem;
+    font-size:2.8rem;
     color:#66BFBF ;
-    font-weight: normal;
+    font-weight: bold;
 
 }
 h3{
     font-family: 'Montserrat',sans-serif;
-color:#11999E;
+color:#0a8589;
+font-weight:bold;
+
+
 }
 
 a{
@@ -114,6 +119,7 @@ span{
 .h2width{
     margin-top: 50px;
     font-size:50px; ;
+    font-weight: 600;
 }
 .p-pro{
     color:#40514E;
